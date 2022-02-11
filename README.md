@@ -28,4 +28,4 @@ A ReadMe file is important because it is the first file that a person sees when 
 
 Link to Application Demo:
 
-![ReadMeGenerator](https://watch.screencastify.com/v/gmWQ7NAMaVem5QnR6Fgh)
+(https://watch.screencastify.com/v/gmWQ7NAMaVem5QnR6Fgh)
