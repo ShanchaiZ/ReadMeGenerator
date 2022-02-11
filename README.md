@@ -10,17 +10,21 @@ A ReadMe file is important because it is the first file that a person sees when 
 
 # Technologies used:
 
-• Javascript => for logic
-• Node.js => to execute application without HTMLs or browser
-• Inquirer => Command line Interface for node.js and is used to:
-    asking questions,
-    validating answers
-    provide error feedback,
-    parsing input,
-    and managing hierarchical prompts.
+* Javascript => for logic
+* Node.js => to execute application without HTMLs or browser
+* Inquirer => Command line Interface for node.js and is used to:
+  - asking questions,
+  - validating answers
+  - provide error feedback,
+  - parsing input,
+  - and managing hierarchical prompts.
 
 # Lessons Learned:
 
+This project was my first:
+* application to a backend development process and use of command line interfaces
+* application of node.js and Inquirer to create a program
+* time using screen recording app to demo an application
 
 # Launch:
 
